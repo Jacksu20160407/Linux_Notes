@@ -6,6 +6,6 @@
 ## bash
 ## man
 用于查找shell命令以及GNU在线手册<br>
-> **Usage**：
-man 命令名<br>
-> **ex**:man date 查看date命令的用法<br>
+> Usage：
+**man [OPTION]**<br>
+**man date** 查看date命令的用法<br>
