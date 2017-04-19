@@ -1,5 +1,4 @@
 # chapter 3
-[TOC]
 -  **shell**: 什么是shell?
 -  **bash**: 什么是bash? 
 -  **man命令**
@@ -19,6 +18,7 @@
 -  **探测进程ps**
 -  **实时监测进程top**
 -  **结束进程kill**
+ [TOC]
 ## shell
 ## bash
 ## man
