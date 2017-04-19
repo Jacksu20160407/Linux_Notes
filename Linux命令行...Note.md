@@ -2,20 +2,20 @@
 [TOC]
 -  **shell**: 什么是shell?
 -  **bash**: 什么是bash? 
--  **man**命令
--  **Linux目录
+-  **man命令**
+-  **Linux目录**
 -  **cp命令**
 -  **ls命令**
 -  **创建文件touch命令**
 -  **链接文件**
 -  **移动（重命名）mv**
--  **删除文件rm命令
--  **创建目录命令mkdir
--  **删除目录rmdir
+-  **删除文件rm命令**
+-  **创建目录命令mkdir**
+-  **删除目录rmdir**
 -  **查看文件统计信息stat**
 -  **查看文件类型信息file**
--  **查看整个文件命令cat, more, less,其中less最好用
--  **查看文件的一小部分tail和head命令
+-  **查看整个文件命令cat, more, less,其中less最好用**
+-  **查看文件的一小部分tail和head命令**
 -  **探测进程ps**
 -  **实时监测进程top**
 -  **结束进程kill**
