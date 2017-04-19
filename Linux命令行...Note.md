@@ -36,3 +36,7 @@ Usage：<br>
 
 ## 实时监测进程top
 > 主要查看%cpu和%MEM，分别对应cup占用率和内存占用率,PID是进程号
+## 结束进程kill
+Usage:<br>
+** kill [options]**<br>
+** kill 3940** 结束进程号为3490的进程
